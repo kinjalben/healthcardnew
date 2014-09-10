@@ -1,0 +1,6 @@
+c:\users\jwalant83\documents\visual studio 2012\Projects\healthcardnew\healthcardnew\bin\Debug\healthcardnew.exe.config
+c:\users\jwalant83\documents\visual studio 2012\Projects\healthcardnew\healthcardnew\bin\Debug\healthcardnew.exe
+c:\users\jwalant83\documents\visual studio 2012\Projects\healthcardnew\healthcardnew\bin\Debug\healthcardnew.pdb
+c:\users\jwalant83\documents\visual studio 2012\Projects\healthcardnew\healthcardnew\obj\Debug\healthcardnew.exe
+c:\users\jwalant83\documents\visual studio 2012\Projects\healthcardnew\healthcardnew\obj\Debug\healthcardnew.pdb
+C:\Users\jwalant83\Documents\Visual Studio 2012\Projects\healthcardnew\healthcardnew\obj\Debug\healthcardnew.csprojResolveAssemblyReference.cache
