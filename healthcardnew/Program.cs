@@ -21,8 +21,8 @@ namespace healthcardnew
            var healtharray = Array.ConvertAll<char,int>(health_c_number,c => (int)char.GetNumericValue(c));
             
            int[] answer = new int[10];// creat an int array
-           int sum = answer.Sum();
-           int fsum =  (sum % 10);
+         //  int sum = answer.Sum();
+        //   int fsum =  (sum % 10);
 
         /*   if (answer[9].CompareTo.fsum)
            {
